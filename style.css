@@ -104,7 +104,6 @@ span{
         border-radius: 1rem 1rem 0 0;
     }
     .text-side{
-        grid-area: 2/1/3/2;
         align-items: center;
     }
     .text-side-flex{
